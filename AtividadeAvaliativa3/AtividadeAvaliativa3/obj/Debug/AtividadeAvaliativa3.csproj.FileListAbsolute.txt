@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\AtividadeAvaliativa3\AtividadeAvaliativa3\bin\Debug\AtividadeAvaliativa3.exe.config
+H:\Visual Studio 2022\Projects\AtividadeAvaliativa3\AtividadeAvaliativa3\bin\Debug\AtividadeAvaliativa3.exe
+H:\Visual Studio 2022\Projects\AtividadeAvaliativa3\AtividadeAvaliativa3\bin\Debug\AtividadeAvaliativa3.pdb
+H:\Visual Studio 2022\Projects\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\AtividadeAvaliativa3.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\AtividadeAvaliativa3.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\AtividadeAvaliativa3.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\AtividadeAvaliativa3.exe
+H:\Visual Studio 2022\Projects\AtividadeAvaliativa3\AtividadeAvaliativa3\obj\Debug\AtividadeAvaliativa3.pdb
